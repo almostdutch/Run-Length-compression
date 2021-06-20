@@ -1,10 +1,10 @@
-demo_run_length_compression.py
+demo_run_length_compression.py <br/>
 
-This demo shows how to do Run-Length encoding/decoding of binary images
+This demo shows how to do Run-Length encoding/decoding of binary images <br/>
 
 **Dummy dataset:**<br/>
 256 x 256 binary image <br/>
-(left) Original image, (right) decoded image
+(left) Original image, (right) decoded image <br/>
 <p align="center">
   <img src="images_original_and_decoded.png" width="420" height="320"/>
 </p>
